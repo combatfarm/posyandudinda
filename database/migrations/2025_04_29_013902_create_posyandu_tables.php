@@ -144,9 +144,7 @@ class CreatePosyanduTables extends Migration
             $table->timestamps();
         });
     }
-    public{
 
-    }
 
     public function down()
     {
